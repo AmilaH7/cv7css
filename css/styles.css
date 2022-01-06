@@ -1,0 +1,52 @@
+
+/**********************TAG SELECTOR**********************/
+
+
+body {
+background-color: #FAF3E0;
+}
+
+p{
+  color: #864879;
+  font-size: 20px;
+
+}
+h1{
+  color: #B68973;
+  font-size: 55px;
+
+}
+h3{
+  color: #B68973;
+  font-size: 25px;
+  width: 30%;
+
+
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #864879;
+border-width: 5px;
+width: 8%;
+
+
+}
+
+/**********************CLASS SELECTOR**********************/
+table{
+
+  color: #1E212D; font-size: 20px;
+  border-spacing: 20px;
+}
+
+td{
+  border-spacing: 30px;
+
+}
+li {
+  color: #1E212D;   font-size: 20px;
+  }
+  .contact{
+    color: #B68973;
+  }
